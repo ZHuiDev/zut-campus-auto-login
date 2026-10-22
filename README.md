@@ -2,6 +2,10 @@
 
 适用配置：Windows 10 / 11、校园 Wi-Fi `zut-stu`、网页登录、联通。无需安装 Python，也不需要管理员权限。电脑需已有 Microsoft Edge 或 Google Chrome，以及 Windows 自带的 .NET Framework 4.8。
 
+## 安卓手机版
+
+[进入 Android 版下载与说明](./android/README.md)：支持 Android 8.0 及以上，提供 APK 和原生 Java 源码。
+
 ## 下载
 
 [下载 Windows 程序](./校园网自动连接.exe?raw=true) · [下载完整包（含源码和说明）](./校园网自动连接-完整包.zip?raw=true)
