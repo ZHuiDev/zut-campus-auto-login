@@ -1,0 +1,44 @@
+Android 1.0 local verification
+
+PASS: Approved campus portal with dynamic IP
+PASS: Approved campus resource port
+PASS: Approved second campus gateway
+PASS: Lookalike host rejected
+PASS: Embedded userinfo rejected
+PASS: Script navigation rejected
+PASS: Local file navigation rejected
+PASS: Unrelated host rejected
+PASS: Quoted Android SSID normalized
+PASS: Redacted SSID requires permission
+PASS: Other Wi-Fi is not campus
+PASS: Offline first attempt allows second
+PASS: Offline second attempt stops
+PASS: Online first attempt stops
+PASS: Credential rejection prevents retry
+PASS: Wrong password alert classified
+PASS: Unpaid account stops login
+PASS: CAPTCHA requires manual action
+PASS: Authentication rejection classified
+PASS: Success text is not an error
+PASS: Schedule today before target time
+PASS: Schedule next day after target is consumed
+PASS: Schedule crosses year boundary
+PASS: Background interval stays within supported range
+TOTAL: 24 passed
+
+PASS: Untrusted host rejected even with a70 path and Dr.COM form
+PASS: Untrusted page receives no form submission
+PASS: Native prepare phase recognizes visible inputs among hidden duplicates
+PASS: Preparing form does not click login
+PASS: Native submit phase clicks spaced Chinese login exactly once
+PASS: Repeated submit callback cannot reuse the prepared button
+PASS: Quotes, Unicode and backslashes preserved without escaping corruption
+PASS: Actual school carrier label selects @unicom
+PASS: Credential text cannot execute JavaScript
+PASS: Unknown carrier stops before submission
+PASS: Visible CAPTCHA requires manual completion
+PASS: Existing session triggers connectivity check instead of a new submission
+TOTAL: 12 browser checks passed
+
+APK signature v2/v3 verified. Min SDK 26; target SDK 36.
+No Android device/emulator installation or real campus account login test performed.
