@@ -1,0 +1,28 @@
+﻿PASS: DPAPI encrypted settings serialization round trip
+PASS: Wi-Fi SSID parsed without BSSID confusion
+PASS: Other Wi-Fi recognized
+PASS: Daily login fires once at scheduled time
+PASS: Resume after multiple sleeping days triggers one catch-up, no burst
+PASS: Starting after today's scheduled time schedules tomorrow
+PASS: First attempt offline -> second attempt succeeds; browser disposed
+PASS: First attempt online -> no extra credential submission
+PASS: Already online -> no login
+PASS: Persistent offline -> exactly two submissions maximum
+PASS: Authentication rejection -> pause without second submission
+PASS: CAPTCHA -> needs manual login
+PASS: Wrong Wi-Fi -> no portal opened
+PASS: Untrusted page -> no credentials; direct-page fallback used
+PASS: Cancelled run disposes browser without submission
+PASS: Connectivity probe accepts expected response
+PASS: Captive portal HTML does not count as Internet
+PASS: Captive portal redirect does not count as Internet
+PASS: Unresponsive asynchronous network probe stops after five seconds
+PASS: Real browser refuses credentials on localhost despite matching school title
+PASS: No submission occurred on untrusted page
+PASS: Real browser fills mock Dr.COM form and clicks spaced Chinese login button
+PASS: Unicode, quotes, backslashes and carrier option value preserved
+PASS: Credential text cannot inject JavaScript
+PASS: Mock portal alert captured and classified as authentication failure
+PASS: Real browser detects CAPTCHA without submitting
+PASS: Missing carrier option stops before credentials are filled
+PASS: Windows Forms UI instantiated and rendered

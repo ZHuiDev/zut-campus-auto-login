@@ -1,0 +1,12 @@
+# Local credentials, account settings and activity logs
+settings.xml
+settings.xml.new
+activity.log
+*.log
+*.user
+.vs/
+work/
+bin/
+obj/
+ZYUTCampusLogin/
+
